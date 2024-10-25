@@ -1,0 +1,60 @@
+.summary{
+    background-image: url('../images/8.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 50px;
+}
+
+.summaryOverlay{
+    background-color: rgba(0, 0, 0, 0.425);
+    min-height: 400px;
+    width: 100%;
+}
+
+.cardFeatures{
+    margin-top: 25%;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.cardTitle{
+    color: black;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.cardSubTitle{
+    color: black;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.Numbers{
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.RowSection i{
+    color: #ffd900;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.Title{
+    color: #ffd900;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.RowSection{
+    margin-top: 20%;
+}
+
+.fa-square-check{
+    font-size: 15px;
+}

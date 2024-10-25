@@ -1,0 +1,22 @@
+.TopPage{
+    background-image: url('../images//9.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 250px;
+}
+
+.TopPageOverlay{
+    min-height: 250px;
+    background-color: rgba(0, 0, 0, 0.414);
+}
+
+.TopPageTitle{
+    font-weight: 700;
+    font-size: 40px;
+    color: #ffee00;
+}
+
+.TopContentPage{
+    margin-top: 6em;
+}

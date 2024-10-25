@@ -1,0 +1,18 @@
+
+
+.course .texte h4{
+    font-weight: bold;
+    color: black;
+}
+
+.course .texte p{
+    font-size: 18px;
+}
+
+.bottom{
+    width: 100px;
+    height: 4px;
+    background-color: black;
+    margin: 20px auto;
+  }
+  

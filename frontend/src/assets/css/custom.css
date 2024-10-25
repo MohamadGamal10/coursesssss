@@ -1,0 +1,38 @@
+.topFixedBanner{
+    background-image: url('../images/1.jpg');
+    min-height: 600px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+
+.overlay{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    height: 600px;
+    width: 100%;
+}
+
+.text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
+
+.text h1{
+    font-size: 47px;
+    font-family: 'Montserrat' , sans-serif;
+    font-weight: 700;
+}
+
+.text p{
+    font-size: 22px;
+    font-family: 'Montserrat' , sans-serif;
+    font-weight: 600;
+}

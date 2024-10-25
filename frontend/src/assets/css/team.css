@@ -1,0 +1,35 @@
+.team{
+    background-color: #051b35;
+    color: white;
+    padding-bottom: 50px;
+}
+
+
+  
+.team .bottom{
+    background-color: white;
+    width: 100px;
+    height: 4px;
+    margin: 20px auto;
+}
+
+.team h3{
+    font-weight: bold;
+}
+
+.team p{
+    padding: 0 20%;
+    font-weight: 400;
+}
+
+.person{
+    height: 150px;
+    width: 150px;
+}
+
+@media only screen and (max-width: 700px) {
+    .slick-slider  {
+    width: 72%;
+    margin: 0 auto;
+    }
+  }

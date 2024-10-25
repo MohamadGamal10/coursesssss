@@ -1,0 +1,34 @@
+.about{
+    margin-bottom: 50px;
+}
+
+.person-about{
+    height: 400px;
+    width: 400px;
+}
+
+.bottom{
+  width: 100px;
+  height: 4px;
+  background-color: black;
+  margin: 20px auto;
+}
+
+@media only screen and (max-width: 1000px) {
+    .about img {
+    height: 300px;
+    width: 300px;
+    }
+  }
+
+  .about h5{
+    font-size: 25px;
+  }
+
+  .about h3{
+    font-size: 45px;
+  }
+
+  .about p{
+    font-size: 20px;
+  }

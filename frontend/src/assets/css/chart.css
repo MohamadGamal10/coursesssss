@@ -1,0 +1,16 @@
+.ex{
+    margin: 20px 0;
+}
+
+@media only screen and (max-width: 770px) {
+    .per {
+    height: 300px;
+    }
+  }
+
+  .bottom{
+    width: 100px;
+    height: 4px;
+    background-color: black;
+    margin: 20px auto;
+  }

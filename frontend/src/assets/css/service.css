@@ -1,0 +1,47 @@
+.serviceCard{
+    box-shadow: 1px 1px 8px 0 gray;
+    padding: 50px 20px ;
+    margin: 6px;
+    height: 24rem;
+    transition: .2s ease-in-out;
+}
+
+.serviceCard:hover{
+    box-shadow: 1px 1px 16px 0 rgb(94, 125, 193);
+    padding: 50px 20px ;
+    margin: 6px;
+    height: 24rem;
+}
+
+.serviceCard img{
+    width: 250px;
+    height: 150px;
+}
+
+.serviceCard h4{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.serviceCard p{
+    font-size: 16px;
+    color: gray;
+}
+
+.ser{
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+
+.ser h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.bottom{
+    width: 100px;
+    height: 4px;
+    background-color: black;
+    margin: 20px auto;
+}
+

@@ -1,0 +1,30 @@
+.videoCard{
+    box-shadow: 0 13px 10px -5px;
+    padding: 8px 3px;
+    background-color: #051b35;
+    margin: 20px auto;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.vidIcon{
+    color: white;
+    font-size: 40px;
+}
+
+@media only screen and (max-width: 770px) {
+    .videoCard {
+    padding: 150px 3px;
+    margin: 20px auto;
+    }
+  }
+
+  .bottom{
+    width: 100px;
+    height: 4px;
+    background-color: black;
+    margin: 20px auto;
+  }
